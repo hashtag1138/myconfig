@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="color" mtime="1504865749" type="string">
+		<stringvalue>#ffffb3b30000</stringvalue>
+	</entry>
+	<entry name="style" mtime="1513680448" type="string">
+		<stringvalue>Monospace 13</stringvalue>
+	</entry>
+	<entry name="palette_name" mtime="1518158228" type="string">
+		<stringvalue>Terminal Basic</stringvalue>
+	</entry>
+	<entry name="palette" mtime="1518158228" type="string">
+		<stringvalue>#000000000000:#999900000000:#0000A6A60000:#999999990000:#00000000B2B2:#B2B20000B2B2:#0000A6A6B2B2:#BFBFBFBFBFBF:#666666666666:#E5E500000000:#0000D9D90000:#E5E5E5E50000:#00000000FFFF:#E5E50000E5E5:#0000E5E5E5E5:#E5E5E5E5E5E5:#000000000000:#FFFFFFFFFFFF</stringvalue>
+	</entry>
+	<entry name="allow_bold" mtime="1518158228" type="bool" value="true"/>
+</gconf>
