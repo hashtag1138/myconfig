@@ -1,0 +1,50 @@
+Gtk-Message: Failed to load module "canberra-gtk-module"
+
+(guake:14976): libglade-WARNING **: unknown attribute `swapped' for <signal>.
+
+(guake:14976): libglade-WARNING **: unknown attribute `swapped' for <signal>.
+
+(guake:14976): libglade-WARNING **: unknown attribute `swapped' for <signal>.
+
+(guake:14976): libglade-WARNING **: unknown attribute `swapped' for <signal>.
+
+(guake:14976): libglade-WARNING **: unknown attribute `swapped' for <signal>.
+
+(guake:14976): libglade-WARNING **: unknown attribute `swapped' for <signal>.
+
+(guake:14976): libglade-WARNING **: unknown attribute `swapped' for <signal>.
+
+(guake:14976): libglade-WARNING **: unknown attribute `swapped' for <signal>.
+
+(guake:14976): libglade-WARNING **: unknown attribute `swapped' for <signal>.
+
+(guake:14976): libglade-WARNING **: unknown attribute `swapped' for <signal>.
+
+(guake:14976): libglade-WARNING **: unknown attribute `swapped' for <signal>.
+
+(guake:14976): libglade-WARNING **: unknown attribute `swapped' for <signal>.
+
+(guake:14976): libglade-WARNING **: unknown attribute `swapped' for <signal>.
+
+(guake:14976): libglade-WARNING **: unknown attribute `swapped' for <signal>.
+
+(guake:14976): libglade-WARNING **: unknown attribute `swapped' for <signal>.
+
+(guake:14976): libglade-WARNING **: unknown attribute `swapped' for <signal>.
+
+(guake:14976): libglade-WARNING **: unknown attribute `swapped' for <signal>.
+
+(guake:14976): libglade-WARNING **: unknown attribute `swapped' for <signal>.
+
+(guake:14976): libglade-WARNING **: unknown attribute `swapped' for <signal>.
+
+(guake:14976): libglade-WARNING **: unknown attribute `swapped' for <signal>.
+
+(guake:14976): libglade-WARNING **: unknown attribute `swapped' for <signal>.
+
+(guake:14976): libglade-WARNING **: unknown attribute `swapped' for <signal>.
+INFO:guake.guake_app:Logging configuration complete
+/usr/lib/python2.7/dist-packages/guake/guake_app.py:865: GtkWarning: IA__gtk_window_set_type_hint: assertion '!gtk_widget_get_mapped (GTK_WIDGET (window))' failed
+  self.window.set_type_hint(gtk.gdk.WINDOW_TYPE_HINT_DOCK)
+/usr/lib/python2.7/dist-packages/guake/guake_app.py:866: GtkWarning: IA__gtk_window_set_type_hint: assertion '!gtk_widget_get_mapped (GTK_WIDGET (window))' failed
+  self.window.set_type_hint(gtk.gdk.WINDOW_TYPE_HINT_NORMAL)

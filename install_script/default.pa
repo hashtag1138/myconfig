@@ -1,0 +1,8 @@
+#!/usr/bin/pulseaudio -nF
+.include /etc/pulse/default.pa
+.ifexists module-bluetooth-policy.so
+	unload-module-bluetooth-policy.so
+.enif
+.ifexists module-bluetooth-discover.so
+        unload-module-bluetooth-discover.so
+.enif
